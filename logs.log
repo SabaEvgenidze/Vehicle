@@ -1,0 +1,289 @@
+2022-12-17 15:33:12 INFO  Main:23 - 20
+2022-12-17 15:33:12 INFO  Military:10 - This military vehicle is Tank
+2022-12-17 15:33:12 INFO  Truck:10 - Truck is slow!
+2022-12-17 15:33:55 INFO  Main:23 - 20
+2022-12-17 15:33:55 INFO  Military:10 - This military vehicle is Tank
+2022-12-17 15:33:55 INFO  Truck:10 - Truck is slow!
+2022-12-17 22:11:11 INFO  Main:23 - 20
+2022-12-17 22:11:11 INFO  Military:10 - This military vehicle is Tank
+2022-12-17 22:11:11 INFO  Truck:10 - Truck is slow!
+2022-12-17 22:34:42 INFO  ManualTest:25 - Extremely fast
+2022-12-17 22:34:42 INFO  Main:23 - 20
+2022-12-17 22:34:42 INFO  Military:10 - This military vehicle is Tank
+2022-12-17 22:34:42 INFO  Truck:10 - Truck is slow!
+2022-12-19 19:35:51 INFO  ManualTest:10 - Too slow
+2022-12-19 19:35:51 INFO  Main:23 - 20
+2022-12-19 19:35:51 INFO  Military:10 - This military vehicle is Tank
+2022-12-19 19:35:51 INFO  Truck:10 - Truck is slow!
+2022-12-19 20:49:38 INFO  ManualTest:10 - Too slow
+2022-12-19 20:49:38 INFO  Main:22 - 20
+2022-12-19 20:49:38 INFO  Military:10 - This military vehicle is Tank
+2022-12-19 20:49:38 INFO  Truck:10 - Truck is slow!
+2022-12-19 20:49:57 INFO  ManualTest:10 - Too slow
+2022-12-19 20:49:57 INFO  Main:22 - 20
+2022-12-19 20:49:57 INFO  Military:10 - This military vehicle is Tank
+2022-12-19 20:49:57 INFO  Truck:10 - Truck is slow!
+2022-12-19 20:50:36 INFO  ManualTest:10 - Too slow
+2022-12-19 20:50:36 INFO  Main:22 - 20
+2022-12-19 20:50:36 INFO  Military:10 - This military vehicle is Tank
+2022-12-19 20:50:36 INFO  Truck:10 - Truck is slow!
+2022-12-19 20:59:09 INFO  ManualTest:10 - Too slow
+2022-12-19 20:59:09 INFO  Main:22 - 20
+2022-12-19 20:59:09 INFO  Military:10 - This military vehicle is Tank
+2022-12-19 20:59:09 INFO  Truck:10 - Truck is slow!
+2022-12-21 21:31:31 INFO  Main:21 - 20
+2022-12-21 21:31:31 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 21:31:31 INFO  Truck:9 - Truck is slow!
+2022-12-21 21:31:31 INFO  vehicle:100 - Too slow!
+2022-12-21 21:59:59 INFO  Main:24 - 20
+2022-12-21 21:59:59 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 21:59:59 INFO  Truck:9 - Truck is slow!
+2022-12-21 21:59:59 INFO  vehicle:100 - Too slow!
+2022-12-21 22:01:15 INFO  Main:24 - 20
+2022-12-21 22:01:15 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 22:01:15 INFO  Truck:9 - Truck is slow!
+2022-12-21 22:01:15 INFO  vehicle:100 - Too slow!
+2022-12-21 22:23:11 INFO  Main:24 - 20
+2022-12-21 22:23:11 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 22:23:11 INFO  Truck:9 - Truck is slow!
+2022-12-21 22:23:11 INFO  vehicle:100 - Too slow!
+2022-12-21 22:34:22 INFO  Car_license:13 - Category D
+2022-12-21 22:34:22 INFO  Main:25 - 20
+2022-12-21 22:34:22 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 22:34:22 INFO  Truck:9 - Truck is slow!
+2022-12-21 22:34:22 INFO  vehicle:100 - Too slow!
+2022-12-21 22:36:00 INFO  Car_license:13 - You can drive Bus and Minibus
+2022-12-21 22:36:00 INFO  Main:25 - 20
+2022-12-21 22:36:00 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 22:36:00 INFO  Truck:9 - Truck is slow!
+2022-12-21 22:36:00 INFO  vehicle:100 - Too slow!
+2022-12-21 22:59:09 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 22:59:09 INFO  vehicle:100 - Too slow!
+2022-12-21 22:59:09 INFO  Main:40 - 20
+2022-12-21 22:59:09 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 22:59:09 INFO  Truck:9 - Truck is slow!
+2022-12-21 22:59:49 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 22:59:49 INFO  vehicle:100 - Too slow!
+2022-12-21 22:59:49 INFO  Main:40 - 20
+2022-12-21 22:59:49 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 22:59:49 INFO  Truck:9 - Truck is slow!
+2022-12-21 23:01:13 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 23:01:13 INFO  vehicle:100 - Too slow!
+2022-12-21 23:01:13 INFO  Main:38 - 20
+2022-12-21 23:01:13 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 23:01:13 INFO  Truck:9 - Truck is slow!
+2022-12-21 23:02:21 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 23:02:21 INFO  vehicle:100 - Too slow!
+2022-12-21 23:02:21 INFO  Main:37 - 20
+2022-12-21 23:02:21 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 23:02:21 INFO  Truck:9 - Truck is slow!
+2022-12-21 23:02:48 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 23:02:48 INFO  vehicle:100 - Too slow!
+2022-12-21 23:02:48 INFO  Main:38 - 20
+2022-12-21 23:02:48 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 23:02:48 INFO  Truck:9 - Truck is slow!
+2022-12-21 23:03:02 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 23:03:02 INFO  vehicle:100 - Too slow!
+2022-12-21 23:03:02 INFO  Main:38 - 20
+2022-12-21 23:03:02 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 23:03:02 INFO  Truck:9 - Truck is slow!
+2022-12-21 23:04:28 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 23:04:28 INFO  vehicle:100 - Too slow!
+2022-12-21 23:04:28 INFO  Main:38 - 20
+2022-12-21 23:04:28 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 23:04:28 INFO  Truck:9 - Truck is slow!
+2022-12-21 23:04:56 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 23:04:56 INFO  vehicle:100 - Too slow!
+2022-12-21 23:04:56 INFO  Main:38 - 20
+2022-12-21 23:04:56 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 23:04:56 INFO  Truck:9 - Truck is slow!
+2022-12-21 23:05:20 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 23:05:20 INFO  vehicle:100 - Too slow!
+2022-12-21 23:05:20 INFO  Main:38 - 20
+2022-12-21 23:05:20 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 23:05:20 INFO  Truck:9 - Truck is slow!
+2022-12-21 23:11:13 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-21 23:11:13 INFO  vehicle:100 - Too slow!
+2022-12-21 23:11:13 INFO  Main:38 - 20
+2022-12-21 23:11:13 INFO  Military:9 - This military vehicle is Tank
+2022-12-21 23:11:13 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:02:49 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:02:49 INFO  vehicle:100 - Too slow!
+2022-12-22 01:02:49 INFO  Main:40 - 20
+2022-12-22 01:02:49 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:02:49 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:03:22 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:03:22 INFO  vehicle:100 - Too slow!
+2022-12-22 01:03:22 INFO  Main:41 - 20
+2022-12-22 01:03:22 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:03:22 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:07:18 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:07:18 INFO  vehicle:100 - Too slow!
+2022-12-22 01:07:18 INFO  Main:46 - 20
+2022-12-22 01:07:18 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:07:18 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:11:38 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:11:38 INFO  vehicle:100 - Too slow!
+2022-12-22 01:11:38 INFO  Main:46 - 20
+2022-12-22 01:11:38 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:11:38 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:12:21 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:12:21 INFO  vehicle:100 - Too slow!
+2022-12-22 01:12:21 INFO  Main:47 - 20
+2022-12-22 01:12:21 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:12:21 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:15:13 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:15:13 INFO  vehicle:100 - Too slow!
+2022-12-22 01:15:13 INFO  Main:51 - 20
+2022-12-22 01:15:13 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:15:13 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:20:43 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:20:43 INFO  vehicle:100 - Too slow!
+2022-12-22 01:20:43 INFO  Main:49 - 20
+2022-12-22 01:20:43 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:20:43 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:21:07 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:21:07 INFO  vehicle:100 - Too slow!
+2022-12-22 01:21:07 INFO  Main:49 - 20
+2022-12-22 01:21:07 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:21:07 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:22:28 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:22:28 INFO  vehicle:100 - Too slow!
+2022-12-22 01:22:28 INFO  Main:49 - 20
+2022-12-22 01:22:28 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:22:28 INFO  Truck:9 - Truck is slow!
+2022-12-22 01:24:50 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 01:24:50 INFO  vehicle:100 - Too slow!
+2022-12-22 01:24:50 INFO  Main:45 - 20
+2022-12-22 01:24:50 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 01:24:50 INFO  Truck:9 - Truck is slow!
+2022-12-22 02:01:30 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 02:01:30 INFO  vehicle:100 - Too slow!
+2022-12-22 02:01:30 INFO  Main:44 - 20
+2022-12-22 02:01:30 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 02:01:30 INFO  Truck:9 - Truck is slow!
+2022-12-22 02:01:43 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-22 02:01:43 INFO  vehicle:100 - Too slow!
+2022-12-22 02:01:43 INFO  Main:45 - 20
+2022-12-22 02:01:43 INFO  Military:9 - This military vehicle is Tank
+2022-12-22 02:01:43 INFO  Truck:9 - Truck is slow!
+2022-12-23 22:09:10 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-23 22:09:10 INFO  vehicle:100 - Too slow!
+2022-12-23 22:09:10 INFO  Main:34 - 20
+2022-12-23 22:09:10 INFO  Military:9 - This military vehicle is Tank
+2022-12-23 22:09:10 INFO  Truck:9 - Truck is slow!
+2022-12-23 22:09:17 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-23 22:09:17 INFO  vehicle:100 - Too slow!
+2022-12-23 22:09:17 INFO  Main:34 - 20
+2022-12-23 22:09:17 INFO  Military:9 - This military vehicle is Tank
+2022-12-23 22:09:17 INFO  Truck:9 - Truck is slow!
+2022-12-23 22:46:29 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-23 22:46:29 INFO  vehicle:100 - Too slow!
+2022-12-23 22:46:29 INFO  Main:35 - 20
+2022-12-23 22:46:29 INFO  Military:9 - This military vehicle is Tank
+2022-12-23 22:46:29 INFO  Truck:9 - Truck is slow!
+2022-12-23 22:48:33 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-23 22:48:33 INFO  vehicle:100 - Too slow!
+2022-12-23 22:48:33 INFO  Main:35 - 20
+2022-12-23 22:48:33 INFO  Military:9 - This military vehicle is Tank
+2022-12-23 22:48:33 INFO  Truck:9 - Truck is slow!
+2022-12-23 22:51:45 INFO  Car_license:14 - You can drive Bus and Minibus
+2022-12-23 22:51:45 INFO  vehicle:100 - Too slow!
+2022-12-23 22:51:45 INFO  Main:35 - 20
+2022-12-23 22:51:45 INFO  Military:9 - This military vehicle is Tank
+2022-12-23 22:51:45 INFO  Truck:9 - Truck is slow!
+2022-12-23 22:51:45 INFO  ExceptionForAge:12 - OK!
+2022-12-23 23:19:05 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-23 23:19:05 INFO  vehicle:100 - Too slow!
+2022-12-23 23:19:05 INFO  Truck:9 - Truck is slow!
+2022-12-23 23:19:05 INFO  ExceptionForAge:12 - You can take license!
+2022-12-23 23:55:21 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-23 23:55:21 INFO  vehicle:100 - Too slow!
+2022-12-23 23:55:21 INFO  Truck:9 - Truck is slow!
+2022-12-23 23:55:21 INFO  ExceptionForAge:12 - You can take license!
+2022-12-23 23:55:50 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-23 23:55:50 INFO  vehicle:100 - Too slow!
+2022-12-23 23:55:50 INFO  Truck:9 - Truck is slow!
+2022-12-23 23:55:50 INFO  ExceptionForAge:12 - You can take license!
+2022-12-23 23:56:51 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-23 23:56:51 INFO  vehicle:100 - Too slow!
+2022-12-23 23:56:51 INFO  Truck:9 - Truck is slow!
+2022-12-23 23:56:51 INFO  ExceptionForAge:12 - You can take license!
+2022-12-24 00:04:37 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-24 00:04:37 INFO  vehicle:100 - Too slow!
+2022-12-24 00:04:37 INFO  Truck:9 - Truck is slow!
+2022-12-24 00:04:37 INFO  ExceptionForAge:12 - You can take license!
+2022-12-24 00:04:37 INFO  Main:59 - this car is extremely fast
+2022-12-24 00:49:47 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-24 00:49:47 INFO  vehicle:100 - Too slow!
+2022-12-24 00:49:47 INFO  Truck:9 - Truck is slow!
+2022-12-24 00:49:47 INFO  ExceptionForAge:12 - You can take license!
+2022-12-24 00:49:47 INFO  Main:59 - this car is extremely fast
+2022-12-24 01:49:16 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-24 01:49:16 INFO  vehicle:100 - Too slow!
+2022-12-24 01:49:16 INFO  Truck:9 - Truck is slow!
+2022-12-24 01:49:16 INFO  Exceptionforage:12 - You can take license!
+2022-12-24 01:49:16 INFO  Main:56 - this car is extremely fast
+2022-12-24 01:49:16 INFO  Main:59 - this is example with parameterbumshaklaka
+2022-12-24 02:54:29 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-24 02:54:29 INFO  vehicle:100 - Too slow!
+2022-12-24 02:54:29 INFO  Truck:9 - Truck is slow!
+2022-12-24 02:54:29 INFO  ExceptionForAge:12 - You can take license!
+2022-12-24 02:54:29 INFO  Main:56 - this car is extremely fast
+2022-12-24 02:54:29 INFO  Main:59 - This is example with parameter bumshaklaka
+2022-12-25 00:45:12 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-25 00:45:12 INFO  Vehicle:100 - Too slow!
+2022-12-25 00:45:12 INFO  Truck:9 - Truck is slow!
+2022-12-25 00:45:12 INFO  ExceptionForAge:12 - You can take license!
+2022-12-25 00:45:12 INFO  Main:57 - this car is extremely fast
+2022-12-25 00:45:12 INFO  Main:60 - This is example with parameter bumshaklaka
+2022-12-25 00:55:16 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-25 00:55:16 INFO  Vehicle:103 - Too slow!
+2022-12-25 00:55:16 INFO  Truck:9 - Truck is slow!
+2022-12-25 00:55:16 INFO  ExceptionForAge:12 - You can take license!
+2022-12-25 00:55:16 INFO  Main:59 - this car is extremely fast
+2022-12-25 00:55:16 INFO  Main:62 - This is example with parameter bumshaklaka
+2022-12-25 02:44:34 INFO  Car_License:14 - You can drive Bus and Minibus
+2022-12-25 02:44:34 INFO  Vehicle:103 - Too slow!
+2022-12-25 02:44:34 INFO  Truck:9 - Truck is slow!
+2022-12-25 02:44:34 INFO  ExceptionForAge:12 - You can take license!
+2022-12-25 02:44:34 INFO  ExceptionForAge:22 - This was costume exception!
+2022-12-25 02:44:34 INFO  Main:59 - this car is extremely fast
+2022-12-25 02:44:34 INFO  Main:62 - This is example with parameter bumshaklaka
+2022-12-28 21:36:57 INFO  CarLicense:14 - You can drive Bus and Minibus
+2022-12-28 21:36:57 INFO  Vehicle:103 - Too slow!
+2022-12-28 21:36:57 INFO  Truck:9 - Truck is slow!
+2022-12-28 21:36:57 INFO  ExceptionForAge:12 - You can take license!
+2022-12-28 21:36:57 INFO  ExceptionForAge:22 - This was costume exception!
+2022-12-28 21:36:57 INFO  Main:59 - this car is extremely fast
+2022-12-28 21:36:57 INFO  Main:62 - This is example with parameter bumshaklaka
+2022-12-29 21:28:32 INFO  CarLicense:14 - You can drive Bus and Minibus
+2022-12-29 21:28:32 INFO  Vehicle:103 - Too slow!
+2022-12-29 21:28:32 INFO  Truck:9 - Truck is slow!
+2022-12-29 21:28:32 INFO  ExceptionForAge:12 - You can take license!
+2022-12-29 21:28:32 INFO  ExceptionForAge:22 - This was costume exception!
+2022-12-29 21:28:32 INFO  Main:59 - this car is extremely fast
+2022-12-29 21:28:32 INFO  Main:62 - This is example with parameter bumshaklaka
+2022-12-30 23:50:55 INFO  CarLicense:14 - You can drive Bus and Minibus
+2022-12-30 23:50:55 INFO  Vehicle:103 - Too slow!
+2022-12-30 23:50:55 INFO  Truck:9 - Truck is slow!
+2022-12-30 23:50:55 INFO  ExceptionForAge:12 - You can take license!
+2022-12-30 23:50:55 INFO  ExceptionForAge:22 - This was costume exception!
+2022-12-30 23:50:55 INFO  Main:59 - this car is extremely fast
+2022-12-30 23:50:55 INFO  Main:62 - This is example with parameter bumshaklaka
+2022-12-31 18:13:41 INFO  CarLicense:14 - You can drive Bus and Minibus
+2022-12-31 18:13:41 INFO  Vehicle:103 - Too slow!
+2022-12-31 18:13:41 INFO  Truck:9 - Truck is slow!
+2022-12-31 18:13:41 INFO  ExceptionForAge:12 - You can take license!
+2022-12-31 18:13:41 INFO  ExceptionForAge:22 - This was costume exception!
+2022-12-31 18:13:41 INFO  Main:59 - this car is extremely fast
+2022-12-31 18:13:41 INFO  Main:62 - This is example with parameter bumshaklaka
+2022-12-31 18:19:23 INFO  Main:1511 - Person{name:Alina Smithage:33gender:FEMALE
+2022-12-31 18:19:23 INFO  Main:1511 - Person{name:Helen Whiteage:57gender:FEMALE
+2022-12-31 18:19:23 INFO  Main:1511 - Person{name:Anna Cookage:7gender:FEMALE
+2022-12-31 18:19:23 INFO  Main:1511 - Person{name:Zelda Brownage:120gender:FEMALE
+2022-12-31 18:20:16 INFO  Main:1511 - Person{name:Alina Smithage:33gender:FEMALE
+2022-12-31 18:20:17 INFO  Main:1511 - Person{name:Helen Whiteage:57gender:FEMALE
+2022-12-31 18:20:17 INFO  Main:1511 - Person{name:Anna Cookage:7gender:FEMALE
+2022-12-31 18:20:17 INFO  Main:1511 - Person{name:Zelda Brownage:120gender:FEMALE
+2022-12-31 18:20:17 INFO  Main:178 - Zelda Brown

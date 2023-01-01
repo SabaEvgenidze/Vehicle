@@ -2,13 +2,15 @@ package threads;
 
 public class Main {
     public static void main(String[] argv){
-        Runnable r = new Task();
-        Thread  task = new Thread(r);
-        task.start();
 
-        for (int doc=1; doc<=10; doc++){
-            System.out.println("^^ Doc #: " + doc);
-        }
+
+        Task1 task1 = new Task1();
+        Thread thread1 = new Thread(task1);
+        thread1.start();
+
+        Task2 task2 = new Task2();
+        Thread thread2 = new Thread(task2);
+        thread2.start();
 
     }
 }

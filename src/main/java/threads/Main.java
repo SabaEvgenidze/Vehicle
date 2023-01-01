@@ -3,7 +3,7 @@ package threads;
 public class Main {
     public static void main(String[] argv){
 
-
+        //Multi-Threading
         Task1 task1 = new Task1();
         Thread thread1 = new Thread(task1);
         thread1.start();

@@ -287,3 +287,13 @@
 2022-12-31 18:20:17 INFO  Main:1511 - Person{name:Anna Cookage:7gender:FEMALE
 2022-12-31 18:20:17 INFO  Main:1511 - Person{name:Zelda Brownage:120gender:FEMALE
 2022-12-31 18:20:17 INFO  Main:178 - Zelda Brown
+2023-01-01 23:05:18 INFO  Main:1511 - Person{name:Alina Smithage:33gender:FEMALE
+2023-01-01 23:05:18 INFO  Main:1511 - Person{name:Helen Whiteage:57gender:FEMALE
+2023-01-01 23:05:18 INFO  Main:1511 - Person{name:Anna Cookage:7gender:FEMALE
+2023-01-01 23:05:18 INFO  Main:1511 - Person{name:Zelda Brownage:120gender:FEMALE
+2023-01-01 23:05:18 INFO  Main:178 - Zelda Brown
+2023-01-01 23:06:26 INFO  Main:1511 - Person{name:Alina Smithage:33gender:FEMALE
+2023-01-01 23:06:26 INFO  Main:1511 - Person{name:Helen Whiteage:57gender:FEMALE
+2023-01-01 23:06:26 INFO  Main:1511 - Person{name:Anna Cookage:7gender:FEMALE
+2023-01-01 23:06:26 INFO  Main:1511 - Person{name:Zelda Brownage:120gender:FEMALE
+2023-01-01 23:06:26 INFO  Main:178 - Zelda Brown

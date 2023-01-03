@@ -2,7 +2,7 @@ package vehicle;
 
 import interfacepack.IMove;
 import interfacepack.ISpeed;
-import vehicle.EnumForModel.Model;
+import vehicle.enumformodel.Model;
 import vehicle.enumforgearbox.ManualCarEnum;
 import vehicle.license.CarLicense;
 import vehicle.license.ExceptionForAge;

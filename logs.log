@@ -417,3 +417,62 @@
 2023-01-02 01:18:40 INFO  Task1:18 - Thread #1 finished! 
 2023-01-02 01:18:40 INFO  Task2:11 - Thread #2: 10
 2023-01-02 01:18:41 INFO  Task2:18 - Thread #2 finished! 
+2023-01-04 02:11:11 INFO  Task1:11 - Thread #1: 1
+2023-01-04 02:11:11 INFO  Task2:11 - Thread #2: 0
+2023-01-04 02:11:12 INFO  Task2:11 - Thread #2: 1
+2023-01-04 02:11:12 INFO  Task1:11 - Thread #1: 2
+2023-01-04 02:11:13 INFO  Task2:11 - Thread #2: 2
+2023-01-04 02:11:13 INFO  Task1:11 - Thread #1: 3
+2023-01-04 02:11:14 INFO  Task1:11 - Thread #1: 4
+2023-01-04 02:11:14 INFO  Task2:11 - Thread #2: 3
+2023-01-04 02:11:15 INFO  Task1:11 - Thread #1: 5
+2023-01-04 02:11:15 INFO  Task2:11 - Thread #2: 4
+2023-01-04 02:11:16 INFO  Task1:11 - Thread #1: 6
+2023-01-04 02:11:16 INFO  Task2:11 - Thread #2: 5
+2023-01-04 02:11:17 INFO  Task1:11 - Thread #1: 7
+2023-01-04 02:11:17 INFO  Task2:11 - Thread #2: 6
+2023-01-04 02:11:18 INFO  Task1:11 - Thread #1: 8
+2023-01-04 02:11:18 INFO  Task2:11 - Thread #2: 7
+2023-01-04 02:11:19 INFO  Task1:11 - Thread #1: 9
+2023-01-04 02:11:19 INFO  Task2:11 - Thread #2: 8
+2023-01-04 02:11:20 INFO  Task1:11 - Thread #1: 10
+2023-01-04 02:11:20 INFO  Task2:11 - Thread #2: 9
+2023-01-04 02:11:21 INFO  Task1:18 - Thread #1 finished! 
+2023-01-04 02:11:21 INFO  Task2:11 - Thread #2: 10
+2023-01-04 02:11:22 INFO  Task2:18 - Thread #2 finished! 
+2023-01-04 02:11:26 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-04 02:11:26 INFO  Vehicle:103 - Too slow!
+2023-01-04 02:11:26 INFO  Truck:9 - Truck is slow!
+2023-01-04 02:11:26 INFO  ExceptionForAge:12 - You can take license!
+2023-01-04 02:11:26 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-04 02:11:26 INFO  Main:63 - this car is extremely fast
+2023-01-04 02:11:26 INFO  Main:66 - This is example with parameter bumshaklaka
+2023-01-04 02:12:23 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-04 02:12:23 INFO  Vehicle:103 - Too slow!
+2023-01-04 02:12:23 INFO  Truck:9 - Truck is slow!
+2023-01-04 02:12:23 INFO  ExceptionForAge:12 - You can take license!
+2023-01-04 02:12:23 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-04 02:12:23 INFO  Main:63 - this car is extremely fast
+2023-01-04 02:12:23 INFO  Main:66 - This is example with parameter bumshaklaka
+2023-01-04 02:12:57 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-04 02:12:57 INFO  Vehicle:103 - Too slow!
+2023-01-04 02:12:57 INFO  Truck:9 - Truck is slow!
+2023-01-04 02:12:57 INFO  ExceptionForAge:12 - You can take license!
+2023-01-04 02:12:57 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-04 02:12:57 INFO  Main:63 - this car is extremely fast
+2023-01-04 02:12:57 INFO  Main:66 - This is example with parameter bumshaklaka
+2023-01-04 02:15:04 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-04 02:15:04 INFO  Vehicle:103 - Too slow!
+2023-01-04 02:15:04 INFO  Truck:9 - Truck is slow!
+2023-01-04 02:15:04 INFO  ExceptionForAge:12 - You can take license!
+2023-01-04 02:15:04 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-04 02:15:04 INFO  Main:63 - this car is extremely fast
+2023-01-04 02:15:04 INFO  Main:66 - This is example with parameter bumshaklaka
+2023-01-04 02:15:32 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-04 02:15:32 INFO  Vehicle:103 - Too slow!
+2023-01-04 02:15:32 INFO  Truck:9 - Truck is slow!
+2023-01-04 02:15:32 INFO  ExceptionForAge:12 - You can take license!
+2023-01-04 02:15:32 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-04 02:15:32 INFO  Main:63 - this car is extremely fast
+2023-01-04 02:15:32 INFO  Main:66 - This is example with parameter bumshaklaka
+2023-01-04 02:15:32 INFO  Main:1511 - model:BMW year:2022

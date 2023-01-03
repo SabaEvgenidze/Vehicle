@@ -2,11 +2,15 @@ package vehicle;
 
 import interfacepack.IMove;
 import interfacepack.ISpeed;
+import vehicle.EnumForModel.Model;
 import vehicle.enumforgearbox.ManualCarEnum;
 import vehicle.license.CarLicense;
 import vehicle.license.ExceptionForAge;
 import vehicle.vehicletypes.*;
 import org.apache.log4j.Logger;
+
+import java.util.List;
+import java.util.stream.Collectors;
 
 public class Main {
 
@@ -61,5 +65,27 @@ public class Main {
 
         IMove move1 = (name)->{LOGGER.info("This is example with parameter " + name);}; //with parameter
         move1.move("bumshaklaka");
+
+
+        //Stream
+
+        //Filter
+        List<Suv> type = getModel();
+
+        List<Suv> bmw = type.stream().filter(suv -> suv.getModel().equals(Model.BMW)).collect(Collectors.toList());
+        bmw.forEach(LOGGER::info);
     }
+
+
+    //For stream
+    private static List<Suv> getModel(){
+        return List.of(
+            new Suv(2022, Model.BMW),
+            new Suv(2012, Model.MERCEDES),
+            new Suv(2021, Model.NISSAN),
+            new Suv(1990, Model.TOYOTA),
+            new Suv(1999, Model.JEEP)
+        );
+    }
+
 }

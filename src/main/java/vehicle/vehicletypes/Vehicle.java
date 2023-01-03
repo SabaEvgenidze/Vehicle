@@ -28,7 +28,7 @@ public abstract class Vehicle <T, S, D>   {
 
     public void setProduction(D production){this.production=production;}
 
-    public D getProduction(){return this.production;}
+    public D getBirth(){return this.production;}
 
     ////////////////////
 

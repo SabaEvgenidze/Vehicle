@@ -67,7 +67,7 @@ public class Main {
         move1.move("bumshaklaka");
 
 
-        //Stream
+        //Stream is used for Suv class
 
         //Filter
         List<Suv> type = getModel();

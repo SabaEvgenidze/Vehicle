@@ -81,7 +81,7 @@ public abstract class Vehicle <T, S, D>   {
         LOGGER.info("Every vehicle can move!");
     }
 
-    public void speed_for_auto(AutomaticCarEnum auto){
+    public void speedForAuto(AutomaticCarEnum auto){
         switch (auto){
             case DRIVE:
                 LOGGER.info("Move!!");
@@ -97,7 +97,7 @@ public abstract class Vehicle <T, S, D>   {
                 break;
         }
     }
-    public void speed_for_manual(ManualCarEnum manual){
+    public void speedForManual(ManualCarEnum manual){
         switch (manual){
             case FIRST:
                 LOGGER.info("Too slow!");

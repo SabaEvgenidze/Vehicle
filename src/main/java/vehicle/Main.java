@@ -29,7 +29,7 @@ public class Main {
         ////////////With Enum////////////
 
         Pickup pickup = new Pickup();
-        pickup.speed_for_manual(ManualCarEnum.FIRST);
+        pickup.speedForManual(ManualCarEnum.FIRST);
 
 
         /////////////With generic//////////

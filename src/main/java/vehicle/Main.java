@@ -9,6 +9,7 @@ import vehicle.license.ExceptionForAge;
 import vehicle.vehicletypes.*;
 import org.apache.log4j.Logger;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -69,11 +70,22 @@ public class Main {
 
         //Stream is used for Suv class
 
-        //Filter
+        //create object for stream
+
         List<Suv> type = getModel();
+
+        //Filter
 
         List<Suv> bmw = type.stream().filter(suv -> suv.getModel().equals(Model.BMW)).collect(Collectors.toList());
         bmw.forEach(LOGGER::info);
+
+        //Sort
+
+        List<Suv> sorted = type.stream().sorted(Comparator.comparing(Suv::getDateOfBirth)).collect(Collectors.toList());
+        sorted.forEach(LOGGER::info);
+
+
+
     }
 
 

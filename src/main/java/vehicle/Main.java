@@ -84,11 +84,6 @@ public class Main {
 
         sort.forEach(LOGGER::info);
 
-        boolean max = type.stream().max(Comparator.comparing(Suv::getDateOfBirth)).isPresent();
-
-
-
-
     }
 
 

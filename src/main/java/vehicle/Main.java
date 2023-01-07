@@ -76,13 +76,16 @@ public class Main {
 
         //Filter
 
-        List<Suv> bmw = type.stream().filter(suv -> suv.getModel().equals(Model.BMW)).collect(Collectors.toList());
-        bmw.forEach(LOGGER::info);
+        List<Suv> filter = type.stream().filter(year -> year.getModel().equals(Model.BMW)).collect(Collectors.toList());
 
-        //Sort
+        filter.forEach(LOGGER::info);
 
-        List<Suv> sorted = type.stream().sorted(Comparator.comparing(Suv::getDateOfBirth)).collect(Collectors.toList());
-        sorted.forEach(LOGGER::info);
+        List<Suv> sort = type.stream().sorted(Comparator.comparing(Suv::getDateOfBirth)).collect(Collectors.toList());
+
+        sort.forEach(LOGGER::info);
+
+        boolean max = type.stream().max(Comparator.comparing(Suv::getDateOfBirth)).isPresent();
+
 
 
 

@@ -1,7 +1,7 @@
 package vehicle.vehicletypes;
 
-import vehicle.enums.AutomaticCarEnum;
-import vehicle.enums.ManualCarEnum;
+import enums.AutomaticCarEnum;
+import enums.ManualCarEnum;
 import org.apache.log4j.Logger;
 
 // T int

@@ -1,7 +1,7 @@
 package exception;
 
 import org.apache.log4j.Logger;
-import vehicle.enums.Weather;
+import enums.Weather;
 
 public class ExceptionForWeather {
     private static final Logger LOGGER = Logger.getLogger(ExceptionForModel.class);

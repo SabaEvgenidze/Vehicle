@@ -1,4 +1,4 @@
-package vehicle.enums;
+package enums;
 
 //This Enum is used in Vehicle class
 public enum ManualCarEnum {

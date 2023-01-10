@@ -8,8 +8,8 @@ import vehicle.enums.ManualCarEnum;
 import vehicle.license.CarLicense;
 import vehicle.license.ExceptionForAge;
 import vehicle.vehicletypes.*;
-import org.apache.log4j.Logger;
 
+import org.apache.log4j.Logger;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -40,21 +40,17 @@ public class Main {
         pickup.speedForManual(ManualCarEnum.FIRST);
 
 
-        /////////////With generic//////////
-
-        Military <String> military = new Military <>("Tank");
-        military.getType();
-
-
-        ///////////Interface//////////
-
-        military.attack("Tank");
-
-
         //////////Polymorphism////////
+
         Vehicle truck = new Truck();
         move(truck);
 
+
+        //////////////with generic//////////////////
+
+        Van<String> van = new Van<>();
+        van.setName("Mercedes");
+        LOGGER.info(van.getName());
 
         //////////////Costume Exception/////////
 
@@ -70,14 +66,13 @@ public class Main {
         IStart start1 = () -> {LOGGER.info("hello!");};  //without parameter
         start1.start();
 
-        ISpeed speed1 = (T) -> {LOGGER.info("this car is extremely fast");}; //with generic
-        speed1.speed("blablabla");
+        ISpeed speed1 = (T) -> {LOGGER.info("this car is " + T);}; //with generic
+        speed1.speed("SRT");
 
+
+        //////////////Streams///////////////
 
         //Stream is used for Suv class
-
-        //create object for stream
-
         List<Suv> type = getModel();
 
 

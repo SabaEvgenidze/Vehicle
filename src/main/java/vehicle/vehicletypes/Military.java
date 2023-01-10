@@ -13,7 +13,4 @@ public class Military<T> extends Vehicle implements IAttack {
     @Override
     public void attack(String name){}
 
-    public Military (T type){
-        this.type=type;
-    }
 }

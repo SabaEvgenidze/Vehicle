@@ -2,5 +2,5 @@ package interfacepack;
 
 @FunctionalInterface
 public interface ISpeed <T> {
-    public void speed(T String);
+    public void speed(T name);
 }

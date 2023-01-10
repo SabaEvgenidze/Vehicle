@@ -724,3 +724,144 @@
 2023-01-10 14:12:38 INFO  Task1:18 - Thread #1 finished! 
 2023-01-10 14:12:38 INFO  Task2:11 - Thread #2: 10
 2023-01-10 14:12:39 INFO  Task2:18 - Thread #2 finished! 
+2023-01-10 14:22:15 INFO  Task1:11 - Thread #1: 1
+2023-01-10 14:22:15 INFO  Task2:11 - Thread #2: 0
+2023-01-10 14:22:16 INFO  Task2:11 - Thread #2: 1
+2023-01-10 14:22:16 INFO  Task1:11 - Thread #1: 2
+2023-01-10 14:22:17 INFO  Task2:11 - Thread #2: 2
+2023-01-10 14:22:17 INFO  Task1:11 - Thread #1: 3
+2023-01-10 14:22:18 INFO  Task2:11 - Thread #2: 3
+2023-01-10 14:22:18 INFO  Task1:11 - Thread #1: 4
+2023-01-10 14:22:19 INFO  Task2:11 - Thread #2: 4
+2023-01-10 14:22:19 INFO  Task1:11 - Thread #1: 5
+2023-01-10 14:22:20 INFO  Task2:11 - Thread #2: 5
+2023-01-10 14:22:20 INFO  Task1:11 - Thread #1: 6
+2023-01-10 14:22:20 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:22:21 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:22:21 INFO  Truck:9 - Truck is slow!
+2023-01-10 14:22:21 INFO  ExceptionForAge:12 - You can take license!
+2023-01-10 14:22:21 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-10 14:22:21 INFO  Main:67 - This is example with parameter bumshaklaka
+2023-01-10 14:22:21 INFO  Main:70 - hello!
+2023-01-10 14:22:21 INFO  Main:73 - this car is extremely fast
+2023-01-10 14:22:21 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:22:21 INFO  Main:1511 - model:TOYOTA year:1990
+2023-01-10 14:22:21 INFO  Main:1511 - model:JEEP year:1999
+2023-01-10 14:22:21 INFO  Main:1511 - model:MERCEDES year:2012
+2023-01-10 14:22:21 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:22:21 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:22:21 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:22:21 INFO  Task2:11 - Thread #2: 6
+2023-01-10 14:22:21 INFO  Task1:11 - Thread #1: 7
+2023-01-10 14:22:22 INFO  Task2:11 - Thread #2: 7
+2023-01-10 14:22:22 INFO  Task1:11 - Thread #1: 8
+2023-01-10 14:23:09 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:23:09 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:23:09 INFO  Truck:9 - Truck is slow!
+2023-01-10 14:23:09 INFO  ExceptionForAge:12 - You can take license!
+2023-01-10 14:23:09 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-10 14:23:09 INFO  Main:67 - This is example with parameter bumshaklaka
+2023-01-10 14:23:09 INFO  Main:70 - hello!
+2023-01-10 14:23:09 INFO  Main:73 - this car is extremely fast
+2023-01-10 14:23:09 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:23:09 INFO  Main:1511 - model:TOYOTA year:1990
+2023-01-10 14:23:09 INFO  Main:1511 - model:JEEP year:1999
+2023-01-10 14:23:09 INFO  Main:1511 - model:MERCEDES year:2012
+2023-01-10 14:23:09 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:23:09 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:23:09 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:25:31 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:25:31 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:25:31 INFO  Truck:9 - Truck is slow!
+2023-01-10 14:25:31 INFO  ExceptionForAge:12 - You can take license!
+2023-01-10 14:25:31 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-10 14:25:31 INFO  Main:67 - This is example with parameter bumshaklaka
+2023-01-10 14:25:31 INFO  Main:70 - hello!
+2023-01-10 14:25:31 INFO  Main:73 - this car is SRT
+2023-01-10 14:25:32 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:25:32 INFO  Main:1511 - model:TOYOTA year:1990
+2023-01-10 14:25:32 INFO  Main:1511 - model:JEEP year:1999
+2023-01-10 14:25:32 INFO  Main:1511 - model:MERCEDES year:2012
+2023-01-10 14:25:32 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:25:32 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:25:32 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:28:33 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:28:33 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:28:33 INFO  Truck:9 - Truck is slow!
+2023-01-10 14:28:33 INFO  Vehicle:81 - Every vehicle can move!
+2023-01-10 14:28:33 INFO  ExceptionForAge:12 - You can take license!
+2023-01-10 14:28:33 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-10 14:28:33 INFO  Main:69 - This is example with parameter bumshaklaka
+2023-01-10 14:28:33 INFO  Main:72 - hello!
+2023-01-10 14:28:33 INFO  Main:75 - this car is SRT
+2023-01-10 14:28:33 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:28:33 INFO  Main:1511 - model:TOYOTA year:1990
+2023-01-10 14:28:33 INFO  Main:1511 - model:JEEP year:1999
+2023-01-10 14:28:33 INFO  Main:1511 - model:MERCEDES year:2012
+2023-01-10 14:28:33 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:28:33 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:28:33 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:30:52 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:30:52 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:37:49 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:37:49 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:37:49 INFO  Truck:9 - Truck is slow!
+2023-01-10 14:37:49 INFO  ExceptionForAge:12 - You can take license!
+2023-01-10 14:37:49 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-10 14:37:49 INFO  Main:56 - This is example with parameter bumshaklaka
+2023-01-10 14:37:49 INFO  Main:59 - hello!
+2023-01-10 14:37:49 INFO  Main:62 - this car is SRT
+2023-01-10 14:37:49 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:37:49 INFO  Main:1511 - model:TOYOTA year:1990
+2023-01-10 14:37:49 INFO  Main:1511 - model:JEEP year:1999
+2023-01-10 14:37:49 INFO  Main:1511 - model:MERCEDES year:2012
+2023-01-10 14:37:49 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:37:49 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:37:49 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:43:50 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:43:50 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:43:50 INFO  Truck:9 - Truck is slow!
+2023-01-10 14:43:50 INFO  ExceptionForAge:12 - You can take license!
+2023-01-10 14:43:50 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-10 14:43:50 INFO  Main:60 - This is example with parameter bumshaklaka
+2023-01-10 14:43:50 INFO  Main:63 - hello!
+2023-01-10 14:43:50 INFO  Main:66 - this car is SRT
+2023-01-10 14:43:50 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:43:50 INFO  Main:1511 - model:TOYOTA year:1990
+2023-01-10 14:43:50 INFO  Main:1511 - model:JEEP year:1999
+2023-01-10 14:43:50 INFO  Main:1511 - model:MERCEDES year:2012
+2023-01-10 14:43:50 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:43:50 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:43:50 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:44:23 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:44:23 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:44:23 INFO  Truck:9 - Truck is slow!
+2023-01-10 14:44:23 INFO  Main:49 - 23
+2023-01-10 14:44:23 INFO  ExceptionForAge:12 - You can take license!
+2023-01-10 14:44:23 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-10 14:44:23 INFO  Main:59 - This is example with parameter bumshaklaka
+2023-01-10 14:44:23 INFO  Main:62 - hello!
+2023-01-10 14:44:23 INFO  Main:65 - this car is SRT
+2023-01-10 14:44:23 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:44:23 INFO  Main:1511 - model:TOYOTA year:1990
+2023-01-10 14:44:23 INFO  Main:1511 - model:JEEP year:1999
+2023-01-10 14:44:23 INFO  Main:1511 - model:MERCEDES year:2012
+2023-01-10 14:44:23 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:44:23 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:44:23 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:46:13 INFO  CarLicense:14 - You can drive Bus and Minibus
+2023-01-10 14:46:13 INFO  Vehicle:103 - Too slow!
+2023-01-10 14:46:13 INFO  Truck:9 - Truck is slow!
+2023-01-10 14:46:13 INFO  Main:53 - Mercedes
+2023-01-10 14:46:13 INFO  ExceptionForAge:12 - You can take license!
+2023-01-10 14:46:13 INFO  ExceptionForAge:22 - This was costume exception!
+2023-01-10 14:46:13 INFO  Main:63 - This is example with parameter bumshaklaka
+2023-01-10 14:46:13 INFO  Main:66 - hello!
+2023-01-10 14:46:13 INFO  Main:69 - this car is SRT
+2023-01-10 14:46:13 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:46:13 INFO  Main:1511 - model:TOYOTA year:1990
+2023-01-10 14:46:13 INFO  Main:1511 - model:JEEP year:1999
+2023-01-10 14:46:13 INFO  Main:1511 - model:MERCEDES year:2012
+2023-01-10 14:46:13 INFO  Main:1511 - model:NISSAN year:2021
+2023-01-10 14:46:13 INFO  Main:1511 - model:BMW year:2022
+2023-01-10 14:46:13 INFO  Main:1511 - model:NISSAN year:2021

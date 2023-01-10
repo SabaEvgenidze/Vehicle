@@ -1,5 +1,6 @@
 package vehicle.vehicletypes;
 
+import org.apache.log4j.LogManager;
 import vehicle.enumforgearbox.AutomaticCarEnum;
 import vehicle.enumforgearbox.ManualCarEnum;
 import org.apache.log4j.Logger;

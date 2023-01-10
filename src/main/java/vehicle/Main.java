@@ -1,5 +1,6 @@
 package vehicle;
 
+import exception.ExceptionForModel;
 import interfacepack.IMove;
 import interfacepack.ISpeed;
 import vehicle.enumformodel.Model;
@@ -15,6 +16,8 @@ import java.util.stream.Collectors;
 
 public class Main {
 
+
+
     /////LOGGER////////
     private static final Logger LOGGER = Logger.getLogger(Main.class);
 
@@ -25,6 +28,8 @@ public class Main {
     ////////////////MAIN Method////////////
     public static void main(String [] argv){
 
+        ExceptionForModel exception = new ExceptionForModel();
+        exception.limitModelName();
         //////////HASH MAP/////////
 
         CarLicense car = new CarLicense();
@@ -83,6 +88,8 @@ public class Main {
         List<Suv> sort = type.stream().sorted(Comparator.comparing(Suv::getDateOfBirth)).collect(Collectors.toList());
 
         sort.forEach(LOGGER::info);
+
+
 
     }
 

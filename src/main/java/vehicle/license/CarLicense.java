@@ -13,8 +13,6 @@ public class CarLicense {
 
         LOGGER.info(license.get("Category D"));
     }
-
-
 }
 
 

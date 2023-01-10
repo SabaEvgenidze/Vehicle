@@ -2,7 +2,7 @@ package threads;
 
 import org.apache.log4j.Logger;
 
-public class Task1 extends ForThread implements Runnable {
+public class Task1 implements Runnable {
     private static final Logger LOGGER= Logger.getLogger(Task1.class);
 
     @Override

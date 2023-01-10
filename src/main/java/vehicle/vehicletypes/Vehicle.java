@@ -1,8 +1,7 @@
 package vehicle.vehicletypes;
 
-import org.apache.log4j.LogManager;
-import vehicle.enumforgearbox.AutomaticCarEnum;
-import vehicle.enumforgearbox.ManualCarEnum;
+import vehicle.enums.AutomaticCarEnum;
+import vehicle.enums.ManualCarEnum;
 import org.apache.log4j.Logger;
 
 // T int

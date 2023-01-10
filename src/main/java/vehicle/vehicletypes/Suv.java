@@ -1,7 +1,7 @@
 package vehicle.vehicletypes;
 
 import org.apache.log4j.Logger;
-import vehicle.enumformodel.Model;
+import vehicle.enums.Model;
 
 public class Suv extends Vehicle  {
     public static final Logger LOGGER = Logger.getLogger(Truck.class);

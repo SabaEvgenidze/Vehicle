@@ -1,4 +1,4 @@
-package vehicle.enumforgearbox;
+package vehicle.enums;
 
 //This Enum is used in Vehicle class
 public enum AutomaticCarEnum {

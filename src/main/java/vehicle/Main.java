@@ -1,10 +1,10 @@
 package vehicle;
 
-import exception.ExceptionForModel;
 import interfacepack.IMove;
 import interfacepack.ISpeed;
-import vehicle.enumformodel.Model;
-import vehicle.enumforgearbox.ManualCarEnum;
+import interfacepack.IStart;
+import vehicle.enums.Model;
+import vehicle.enums.ManualCarEnum;
 import vehicle.license.CarLicense;
 import vehicle.license.ExceptionForAge;
 import vehicle.vehicletypes.*;
@@ -28,8 +28,6 @@ public class Main {
     ////////////////MAIN Method////////////
     public static void main(String [] argv){
 
-        ExceptionForModel exception = new ExceptionForModel();
-        exception.limitModelName();
         //////////HASH MAP/////////
 
         CarLicense car = new CarLicense();
@@ -66,11 +64,14 @@ public class Main {
 
         ////////////lambda with generic example//////////
 
-        ISpeed speed1 = (T) -> {LOGGER.info("this car is extremely fast");}; //T String
-        speed1.speed("blablabbla");
-
         IMove move1 = (name)->{LOGGER.info("This is example with parameter " + name);}; //with parameter
         move1.move("bumshaklaka");
+
+        IStart start1 = () -> {LOGGER.info("hello!");};  //without parameter
+        start1.start();
+
+        ISpeed speed1 = (T) -> {LOGGER.info("this car is extremely fast");}; //with generic
+        speed1.speed("blablabla");
 
 
         //Stream is used for Suv class
@@ -79,18 +80,21 @@ public class Main {
 
         List<Suv> type = getModel();
 
-        //Filter
 
+        //filter
         List<Suv> filter = type.stream().filter(year -> year.getModel().equals(Model.BMW)).collect(Collectors.toList());
-
         filter.forEach(LOGGER::info);
 
-        List<Suv> sort = type.stream().sorted(Comparator.comparing(Suv::getDateOfBirth)).collect(Collectors.toList());
 
+        //sort
+        List<Suv> sort = type.stream().sorted(Comparator.comparing(Suv::getDateOfBirth)).collect(Collectors.toList());
         sort.forEach(LOGGER::info);
 
 
-
+        //use sort and filter together
+        List<Suv> mix = type.stream().filter(suv -> suv.getModel().equals(Model.NISSAN)).
+                sorted(Comparator.comparing(Suv::getDateOfBirth)).collect(Collectors.toList());
+        mix.forEach(LOGGER::info);
     }
 
 
